@@ -19,7 +19,7 @@ Una herramienta visual para diseñar y generar especificaciones OpenAPI 3.0.
 
 1. Clonar el repositorio:
 ```bash
-git clone https://github.com/tu-usuario/api-contract-designer.git
+git clone https://github.com/HarolRiosDev/api-contract-designer.git
 cd api-contract-designer
 ```
 
@@ -47,17 +47,3 @@ npm run dev
 - Monaco Editor para la visualización de código
 - js-yaml para la manipulación de YAML
 - Vite como bundler
-
-## Contribución
-
-Las contribuciones son bienvenidas. Por favor, sigue estos pasos:
-
-1. Haz un fork del repositorio
-2. Crea una rama para tu feature (`git checkout -b feature/AmazingFeature`)
-3. Haz commit de tus cambios (`git commit -m 'Add some AmazingFeature'`)
-4. Push a la rama (`git push origin feature/AmazingFeature`)
-5. Abre un Pull Request
-
-## Licencia
-
-Este proyecto está licenciado bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para más detalles.
